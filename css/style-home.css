@@ -1,0 +1,393 @@
+/*Style for Valeria Sassi Website*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Roboto+Slab:400,100,300,700);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:400,700);
+* {
+	
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body{
+
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: 400;
+  font-size: ;
+  position: relative;
+  padding-top: 100px;
+  padding-right: 0;
+  padding-left: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+.container {
+	max-width: 1244px;
+}
+
+h1, h2, h3, h4, h5, h6 ,p {
+  font-family: "Open Sans", sans-serif;
+ /* font-weight: 300;*/
+  margin: 0;
+  padding-right: 0;
+  padding-left: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+div {
+    display: block;
+}
+
+.alignright {
+	font-family: "Open Sans", sans-serif;
+	font-size: 1.2em;
+	float: right;
+	vertical-align: top;
+	color: #808080;
+	padding-top: 1.2em;
+	text-align: right;
+}
+
+
+h1 {
+	font-size: 1em;
+	
+}
+/*.col-lg-12 h1 {
+	vertical-align: middle;
+}*/
+.col-md-6 {
+    padding-left: 0;
+    padding-right: 0;
+}
+h2 {
+
+	font-size: 2.3em;
+	padding-top: 5em;
+	text-align: left;
+	margin-bottom: 30px;
+}
+
+h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 1.6em;
+	color: #A0A0A0;
+}
+p {
+	font-family: "Roboto Slab", sans-serif;
+	font-weight: 300;
+	font-size: 1.6em;
+	padding-left: 0em;
+	padding-right: 0em;
+	color: #808080;
+}
+p strong {
+	color: black;
+}
+p.mrgn-lft {
+	margin-right: 1.2em;
+}
+
+img {
+	max-width:200px;
+}
+/*Navigation*/
+header .navbar {
+	padding: 30px 0;
+	font-family: "Open Sans", sans-serif;
+	text-shadow: none;
+}
+header .navbar-default {
+	background-color: #202020;
+	border: none;
+
+}
+header .navbar-default .navbar-nav{
+	padding-top: 1em;
+}   
+header .navbar-default .navbar-nav a {
+	color: #E0E0E0;
+	padding: 5px 8px
+}
+header .navbar-default .navbar-nav a:hover{
+	color: #93C3D8;
+}
+header .navbar-default .navbar-nav .active a {
+	color: #52AFD8;
+/*	font-weight: 700;*/
+	border-bottom: 1px solid white;
+	background-color: transparent;
+}
+header .navbar-default .navbar-nav .active a:hover {
+	color:#93C3D8;
+	background: transparent;
+}
+.navbar .container .navbar-brand, .navbar .container-fluid .navbar-brand {
+	color: #E0E0E0;
+}
+.page {
+	    padding-bottom: 15em;
+}
+
+
+#about {
+	text-align: left;
+	display: block;
+    padding-top: 0;
+    padding-bottom: 15em;
+    padding-left:0;
+    background-color: rgba(95, 126, 140, 1);
+    background-image: linear-gradient(to bottom, rgba(147, 195, 216, 0.5), rgba(60, 80, 89, 0.5));
+    border-top: 20px solid rgba(95, 126, 140, 1);
+    
+}
+#about p {
+    padding-left: 0;
+    padding-right: 0;
+}
+.proj-descr{
+	margin: 1em;
+}
+.row{
+	margin: 2em 0 0 0;
+}
+
+.row h3{
+	padding-top: 1em;
+}
+.col-lg-12.col-md-12 .top{
+padding-top: 1em;
+}
+p.indented{
+	padding-left: 1em;
+}
+span.glyphicon.glyphicon-unchecked{
+	font-size: 0.5em;
+	padding-left: 1em;
+	color: #A0A0A0;
+/*	vertical-align: middle;*/
+}
+.col-lg-9, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9{	    
+	padding-left: 0;
+	padding-right: 0;
+}
+#about h2 {
+    color: white;
+}
+#about p {
+	text-align: left;
+    color: white;
+    font-size: 1.6em;
+    font-family: "Roboto Slab", sans-serif;
+    font-weight: 300;
+}
+
+     /*contact page*/
+
+.input-txt{
+	font-family: "Roboto Slab", sans-serif;
+	vertical-align: top;
+	font-size: 1.2em;
+	padding-top:0.15em;
+	padding-bottom:0.15em;
+	width: 100%;
+}
+textarea{
+
+	font-size: 1.2em;
+	vertical-align: text-top;
+	height: 7.3em;
+	width: 100%;
+	outline: none;
+	border: none;
+	box-shadow: none;
+
+}
+textarea-label{
+	font-family: "Open Sans";
+	font-weight: 300;
+	font-size: 1.6em;
+	vertical-align: top;
+	padding-left: 0;
+	padding-top: 1.2em;
+}
+
+.sml-plc {
+	font-family: "Open Sans";
+	font-weight: 300;
+	font-size: 1.6em;
+	text-align: left;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 1.2em;
+}
+
+.min-label{
+	font-family: "Open Sans", sans-serif;
+	font-weight: 700;
+	font-size: 1.2em;
+	border-radius: 0;
+}
+
+.min-plholder{
+	box-shadow: none;
+}
+.min-plholder:focus{
+	outline: none;
+}
+.min-plholder:hover{
+	outline: none;
+}
+.min-plholder:active{
+	outline: none;
+}
+
+.placeholder {
+	border-color: black;
+}
+.botn{
+	padding: 0;
+}
+.btn.btn-large{
+	margin-top: 4.55em;
+	outline: none;
+	margin-left: none;
+    margin-right: none;
+	float: center;
+    background: #000;
+    color: #fff;
+    margin-bottom: 0;
+    font-size: 16px;
+    border-radius: 0;
+    border: none;
+    width: 100%;
+
+}
+.btn.btn-large:hover {
+	outline: none;
+	border:none;
+
+}
+
+input , .form-inline .form-control{
+	border: 1px solid #E0E0E0;
+	vertical-align: text-top;
+}
+input:hover ,.form-inline .form-control:hover{
+	border: 1px solid #E0E0E0;
+	background-color: #E0E0E0;
+	color: black;
+	outline:none;
+	box-shadow: none;
+	-webkit-transition: background-color .75s ease;
+	-moz-transition: background-color .75s ease;
+	-o-transition: background-color .75s ease;
+	transition: background-color .75s ease;
+}
+input:focus, .form-inline .form-control:focus{
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+	outline:none;
+	-moz-transition: background-color .75s ease;
+	-o-transition: background-color .75s ease;
+	-webkit-transition: background-color .75s ease;
+	transition: background-color .75s ease;
+}
+.form-inline .form-control {
+    width: 100%;
+    padding: 0;
+    border-radius: 0;
+}
+
+/**  Footer **/
+
+footer{
+	margin-top: 3em;
+	display: block;
+	background: #404040;
+	color: white;
+	font-size: .8em;
+	padding: 20px 0 40px 0;
+}
+
+footer a {
+  color: #E0E6AE;
+}
+
+footer a:hover {
+  color: #EEC856 !important;
+}
+
+footer a {
+  color: #EEC856 !important;
+}
+
+footer .navbar {
+  margin-bottom: 0;
+  min-height: 0;
+}
+
+footer .navbar-default {
+  background-color: transparent;
+  border: none;
+  margin-right: 40px;
+}
+
+footer .navbar-nav>li a {
+  padding-top: 0;
+  padding-bottom: 0;
+  text-decoration: underline;
+  color: #FFFFFF !important;
+}
+
+  /*   media Queries*/
+@media (min-width: 1200px){
+
+}
+@media (max-width: 1200px) {
+	.alignright {
+		width: 100%;
+		text-align: left;
+		float: left;
+	}
+
+}
+
+@media (min-width: 768px){
+/*	span.glyphicon.glyphicon-unchecked {
+    padding-left: 0;
+}*/
+}
+@media (max-width: 768px){
+	
+
+	h2{
+
+		font-size: 1.8em;
+	}
+	h3{
+	/*	font-size: 1.2em;*/
+	}
+	p{
+		padding-left:0;
+		padding-right: 0;
+	}
+	p.indented {
+    padding-left: 0;
+	}
+	#about p {
+		font-size: 1.2em;
+	}
+	p.mrgn-lft {
+	margin-right: 0;
+}
+}
+
+@media only screen and (max-width: 959px) and (min-width: 768px){
+
+}
+
+	
+
