@@ -1,4 +1,38 @@
-<!doctype html>
+<?php 
+$valid = true;
+
+function validatestrings($str, $required = true){
+  global $valid;
+  //convert possiblr malicious code to safe code
+  $str=htmlspecialchars($str);
+  //trim empty spaces start and end
+  $str=trim($str);
+
+  if (empty($str) && $required){
+    $valid = false;
+  }
+  return $str;
+}
+
+// print_r($_POST);
+if ($_SERVER["REQUEST_METHOD"]=="POST"){
+	$name=validatestrings($_POST["name"]);
+	$email=validatestrings($_POST["email"]);
+	$phone=validatestrings($_POST["phone"]);
+	$message=validatestrings($_POST["message"]);
+if ($valid){
+  $new_line="\n";
+  $new_line.="$name, $email, $phone, $message";
+
+  file_put_contents("contact.csv", $new_line, FILE_APPEND);
+}
+  
+}
+$file = file_get_contents("contact.csv");
+$label_rows = str_getcsv($file, "\n");
+?>
+
+<!DOCTYPE html>
 
 
 <html>
@@ -93,6 +127,11 @@
 		<div class="page" id="contact">
 			<div class="container">
 				<h2>Contact</h2>
+				<?php 
+		              if (!$valid){
+		                echo "<h3>Please check the information below</h3>";
+		              }
+		            ?>
 				<div class="row">
 					<!-- <div class="col-md-12"> -->
 						<form action="" method="POST" class="form form-inline">
@@ -113,11 +152,10 @@
 							<div class="col-md-5 col-md-offset-2">
 								<div >
 									<label class="sml-plc">Message</label>
-									<textarea name="Message" rows="6" class="form-control" title="How can I help?" required="true">
-									</textarea>
+									<textarea name="message" rows="6" class="form-control" title="How can I help?" required="true"></textarea>
 								</div>
 								<div>
-									<div class=" botn">
+									<div class="botn">
 									  <input class="btn btn-large" type="submit" class="checkoutButton" value="Submit"/>
 									</div>
 								</div>
