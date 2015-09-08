@@ -165,7 +165,6 @@ $label_rows = str_getcsv($file, "\n");
 				</div><!-- row -->
 			</div><!-- container -->
 		</div> <!-- page -->
-
 	<footer>
 	    <div class="content container-fluid">
 	      <div class="row">
