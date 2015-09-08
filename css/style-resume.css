@@ -34,11 +34,12 @@ h1, h2, h3, h4, h5, h6 ,p {
 div {
     display: block;
 }
-.contact {
+.contact-info {
+	padding-top: 30px;
 		width: 100%;
 		text-align: right;
 		float: right;
-	}
+}
 .first{
 	padding-top: 5em;
 }
@@ -353,7 +354,7 @@ footer .navbar-nav>li a {
 
 }
 @media (max-width: 1200px) {
-	.alignright, .contact {
+	.alignright, .contact-info {
 		width: 100%;
 		text-align: left;
 		float: left;
@@ -364,11 +365,16 @@ footer .navbar-nav>li a {
 @media (min-width: 768px){
 	span.glyphicon.glyphicon-unchecked {
     padding-left: 0;
-}
+	}
 }
 @media (max-width: 768px){
 	h1.big {
 	font-size: 2.8em;
+	}
+	.contact-info {
+	width: 100%;
+    float: left;
+    text-align: left;
 	}	
 	h2{
 		font-size: 1.8em;
@@ -385,16 +391,18 @@ footer .navbar-nav>li a {
 	.icon{
 		float:right;
 	}
+}
 @media only screen and (max-width: 959px) and (min-width: 768px){
 .alignright {
     width: 100%;
     float: left;
-
-}
-.contact {
+	}
+	.contact-info {
 	width: 100%;
-    float: right;
-}
+    float: left;
+    text-align: left;
+	}
+
 }
 
 	
