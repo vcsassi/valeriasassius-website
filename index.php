@@ -74,41 +74,39 @@ $label_rows = str_getcsv($file, "\n");
 			<div class="container">
 				<h2>Work</h2>
 				<div class="row">
-					<div class="col-lg-6 col-md-6">
+					<div class="col-lg-3 col-sm-6">
 						<a href="http://iaminspiredmsp.com/" target="_blank">
 	            			<img  src="images/i-am-inspired-website.jpg" class="img-responsive">
 	          			</a>
-			            <p class="intro">this is the intro</p></br>
-								           
-				            <p class="mrgn-lft">Here goes project description.</br>gdsfkj dskjhf dkjfhksduf  udsify ds ds fh ufjhdui yeiufy odsiuyf  iudsyfui ds fuiydsou fisu iurydf ireuy iuryf iraeyoufgip adyuif y'ua yiuaerou  eya ui ioesrwutre wrtew yptiu yiuwp rtyuire yit rey pwouty ureiwpytou uperywt opure wyt ourepw</p>
-				            <p class="proj-descr">iuhdrfi reshiuyh iu</p>
-				        
-				       
+			            <h3 class="intro"># I Am Inspired</h3>
+			            <p class="mrgn-lft">This single page website was created for the “I Am Inspired” event as part of Fashion Week Minnesota.<br>The website showcases the art and photography work of young artists and provides information about the event and sponsors.<br>The text is easy to read and the artwork chosen for the carrousel creates a colorful atmosphere.<br>A countdown watch for the event and geo location was included.</p>
+			           <!--  <p class="proj-descr">iuhdrfi reshiuyh iu</p> -->
 	        		</div>
-	        		<div class="col-lg-6 col-md-6">
-						<a href="http://valeriasassi.us/IM2460/bookClubPoll/index.php" target="_blank">
-	            			<img  src="images/book-club-pool.jpg" class="img-responsive">
-	          			</a>
-			            <p class="intro">this is the intro</p></br>
-			            <p class="mrgn-lft">Here goes project description.</br>gdsfkj dskjhf dkjfhksduf  udsify ds ds fh ufjhdui yeiufy odsiuyf  iudsyfui ds fuiydsou fisu iurydf ireuy iuryf iraeyoufgip adyuif y'ua yiu aerfghou  eya ui ioesrwutre wrtew yptiu yiuwp rtyuire yit rey pwouty ureiwp ytou ghuper ywt opure wyt ourepw</p>
-			            <p class="proj-descr">iuhdrfi reshiuyh iu</p>
-	        		</div>
-	        		<div class="col-lg-6 col-md-6">
+	        		<div class="col-lg-3 col-sm-6">
 						<a href="http://iaminspiredmsp.com/" target="_blank">
 	            			<img  src="images/farr-publications.jpg" class="img-responsive">
 	          			</a>
-			            <p class="intro">this is the intro</p></br>
-			            <p class="mrgn-lft">Here goes project description.</br>gdsfkj dskjhf dkjfhksduf  udsify ds ds fh ufjhd ui yeiufy odsiuyf  iudsyfui ds fuiydsou fisu iurydf ireuy iuryf iraeyouf gip adyuif y'ua yiua erou  eya ui ioesrwutre wrtew yptiu yiuwp rtyuire yit rey pwouty ureiwpy dfg tou uperywt opure wyt ourepw</p>
-			            <p class="proj-descr">iuhdrfi reshiuyh iu</p>
+			            <h3 class="intro">Farr Publications</h3>
+			            <p class="mrgn-lft">This projects features the redesign of a website.<br>The project reviews a website based on: Screen design, content, accessibility, Navigation, Media use, Interactivity and consistency.<br>The chosen website is Farr Publications and sells music books.</p>
+			         <!--    <p class="proj-descr">iuhdrfi reshiuyh iu</p> -->
 	        		</div>
-	        		<div class="col-lg-6 col-md-6">
-						<a href="http://valeriasassi.us/IM2460/bookClubPoll/index.php" target="_blank">
-	            			<img  src="images/book-club-pool.jpg" class="img-responsive">
+	        		<div class="col-lg-3 col-sm-6">
+						<a href="/mysql_mini_assignment/index2.php" target="_blank">
+	            			<img  src="images/library.jpg" class="img-responsive">
 	          			</a>
-			            <p class="intro">this is the intro</p></br>
-			            <p class="mrgn-lft">Here goes project description.</br>gdsfkj dskjhf dkjfhksduf  udsify ds ds fh ufjhdui yei ufy odsi uy f iudsyfui ds fuiy dsou fisu iurydf ireuy iuryf iraeyo ufgip adyuif y'ua yi uaerou  eya ui ioesrw utre wrtew yptiu yiuwp rtyuire yit rey pwouty ureiwpy tou up erywt opure wyt ourepw</p>
-			            <p class="proj-descr">iuhdrfi reshiuyh iu</p>
+			            <h3 class="intro">Library</h3>
+			            <p class="mrgn-lft">This is a database to store, retrieve, edit, and delete items from a collection.<br>It works as a library that allows book club members to check out books from a private collection. The book club members will be able to add books to lend, perform a filtered search and read about the books.<br>The collection items can be easily updated and deleted.</p>
+			           <!--  <p class="proj-descr">iuhdrfi reshiuyh iu</p> -->
 	        		</div>
+	        		<div class="col-lg-3 col-sm-6">
+						<a href="http://valeriasassi.us/life-beyond-our-planet/index.php" target="_blank">
+	            			<img  src="images/planet.jpg" class="img-responsive">
+	          			</a>
+			            <h3 class="intro">Life Beyond our Planet</h3>
+			            <p class="mrgn-lft">This is an online poll that displays instant results in a graphic chart.<br>Opinion Pools have many applications. They give a chance to educate and/or collect data. It gives people an opportunity to be heard.</p>
+			     <!--        <p class="proj-descr">iuhdrfi reshiuyh iu</p> -->
+	        		</div>
+	        		
 				</div><!-- row 2 -->
 			</div><!-- Container -->
 		</div><!-- page work -->
@@ -127,6 +125,7 @@ $label_rows = str_getcsv($file, "\n");
 		<div class="page" id="contact">
 			<div class="container">
 				<h2>Contact</h2>
+				<p>All required</p>
 				<?php 
 		              if (!$valid){
 		                echo "<h3>Please check the information below</h3>";
@@ -164,12 +163,14 @@ $label_rows = str_getcsv($file, "\n");
 					<!-- </div>col-12 -->
 				</div><!-- row -->
 			</div><!-- container -->
+				<div class="row last">
+				</div>
 		</div> <!-- page -->
 	<footer>
 	    <div class="content container-fluid">
 	      <div class="row">
 	        <div class="col-sm-6">
-	          <p>All contents &copy; 2015 
+	          <p class="property">All contents &copy; 2015 
 	            <a href="#featured">Valeria Sassi</a>. All rights reserved.
 	          </p>    
 	        </div><!-- col-sm-6 -->
@@ -181,6 +182,12 @@ $label_rows = str_getcsv($file, "\n");
 	              </a>
 	               <a href="https://www.linkedin.com/in/valeriasassi" target="_blank" class="btn btn-social-icon btn-linkedin">
 	                <i class="fa fa-linkedin"></i>
+	              </a>
+	              <a href="VALERIA SASSI Resume.pdf" target="_blank" class="btn btn-file-pdf-o">
+	                <i class="fa fa-file-pdf-o"></i>
+	              </a>
+	              <a href="VALERIA SASSI.doc" target="_blank" class="btn file-word-o">
+	                <i class="fa fa-file-word-o"></i>
 	              </a>
 	            </ul>
 	          </nav>        

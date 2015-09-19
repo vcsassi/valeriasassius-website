@@ -34,6 +34,9 @@ h1, h2, h3, h4, h5, h6 ,p {
 div {
     display: block;
 }
+.container.main{
+padding-bottom: 6em;
+}
 .contact-info {
 	padding-top: 30px;
 		width: 100%;
@@ -102,26 +105,28 @@ header .navbar {
 header .navbar-default {
 	background-color: #202020;
 	border: none;
+
 }
 header .navbar-default .navbar-nav{
 	padding-top: 1em;
-}
-
+}   
 header .navbar-default .navbar-nav a {
+	background-color: transparent;
 	color: #E0E0E0;
 	padding: 5px 8px
 }
 header .navbar-default .navbar-nav a:hover{
-	color: #93C3D8;
+	color: #F45353;;
+	background-color: transparent;
 }
 header .navbar-default .navbar-nav .active a {
-	color: #52AFD8;
+	color: #F45353;
 /*	font-weight: 700;*/
 	border-bottom: 1px solid white;
 	background-color: transparent;
 }
 header .navbar-default .navbar-nav .active a:hover {
-	color:#93C3D8;
+	color: #F45353;;
 	background: transparent;
 }
 .navbar .container .navbar-brand, .navbar .container-fluid .navbar-brand {
@@ -311,6 +316,10 @@ input:focus{
 /**  Footer **/
 
 footer{
+	position: fixed;
+	height: 30px;
+    bottom: 0;
+    width: 100%;
 	margin-top: 3em;
 	display: block;
 	background: #404040;
@@ -347,6 +356,15 @@ footer .navbar-nav>li a {
   padding-bottom: 0;
   text-decoration: underline;
   color: #FFFFFF !important;
+}
+.property {
+	margin-top: -1.3em;
+	font-family: "Roboto Slab", sans-serif;
+    font-weight: 300;
+}
+.btn.btn-social-icon, .btn.btn-file-pdf-o , .btn.file-word-o{
+	margin-top: -3em;
+
 }
 
   /*   media Queries*/
@@ -391,9 +409,15 @@ footer .navbar-nav>li a {
 	.icon{
 		float:right;
 	}
+	.property {
+		display: none;
+	}
+	.btn.btn-social-icon, .btn.btn-file-pdf-o , .btn.file-word-o{
+	margin-top: -4em;
+	}
 }
 @media only screen and (max-width: 959px) and (min-width: 768px){
-.alignright {
+	.alignright {
     width: 100%;
     float: left;
 	}
