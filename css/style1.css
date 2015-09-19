@@ -24,8 +24,9 @@ body .resume {
 	padding-top: 70px;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6 ,p {
   font-family: "Open Sans", sans-serif;
+ /* font-weight: 300;*/
   margin: 0;
   padding-right: 0;
   padding-left: 0;
@@ -35,6 +36,7 @@ h1, h2, h3, h4, h5, h6, p {
 div {
     display: block;
 }
+
 .alignright {
 	font-family: "Open Sans", sans-serif;
 	font-size: 1.2em;
@@ -44,63 +46,10 @@ div {
 	padding-top: 1.2em;
 	text-align: right;
 }
-/**  Footer **/
-
-footer{
-	display: block;
-	background: #404040;
-	color: white;
-	font-size: .8em;
-	padding: 20px 0 40px 0;
-}
-
-footer a {
-  color: #E0E6AE;
-}
-
-footer a:hover {
-  color: #EEC856 !important;
-}
-
-footer a {
-  color: #EEC856 !important;
-}
-
-footer .navbar {
-  margin-bottom: 0;
-  min-height: 0;
-}
-
-footer .navbar-default {
-  background-color: transparent;
-  border: none;
-  margin-right: 40px;
-}
-
-footer .navbar-nav>li a {
-  padding-top: 0;
-  padding-bottom: 0;
-  text-decoration: underline;
-  color: #FFFFFF !important;
-}	
-
-/*.container.main{
-    margin-bottom: 4em;
-}
-.col-lg-12 h1 {
-	vertical-align: middle;
-}
-.col-lg-12 {
-	margin-left: 0;
-    padding-left: 0;
-
-}*/
-
 
 
 h1 {
 	font-size: 3.2em;
-	/*margin-bottom: 0.4em;*/
 	
 }
 .col-lg-12 h1 {
@@ -111,23 +60,14 @@ h2.resume {
 	padding: 0.25em;
 	color: white;
 	background: #808080;
-
 }
 .page h2 {
     text-align: center;
     margin-bottom: 30px;
 }
-/*.about h2{
-	color: white;
-}
-.page h2 {
-    text-align: left;
-    margin-bottom: 30px;
-}*/
 h3 {
 	margin-top: 0;
 	margin-bottom: 0;
-	/*padding-top: 1.2em;*/
 	font-size: 1.6em;
 	color: #A0A0A0;
 }
@@ -138,9 +78,6 @@ p {
 }
 p strong {
 	color: black;
-}
-.bullet {
-	color: #E0E0E0;
 }
 img {
 	max-width:200px;
@@ -153,14 +90,12 @@ header .navbar {
 }
 header .navbar-default {
 	background-color: #202020;
-	color: white;
 	border: none;
 }
 
 header .navbar-default .navbar-nav a {
 	color: #E0E0E0;
-	padding: 15px 15px;
-/*	font-weight: 300;*/
+	padding: 5px 8px
 }
 header .navbar-default .navbar-nav a:hover{
 	color: #93C3D8;
@@ -170,21 +105,17 @@ header .navbar-default .navbar-nav .active a {
 	font-weight: 700;
 	border-bottom: 1px solid white;
 	background-color: transparent;
-	padding-bottom: 3px;
 }
 header .navbar-default .navbar-nav .active a:hover {
 	color:#93C3D8;
 	background: transparent;
 }
-/*.navbar.container .navbar-brand, .navbar.container-fluid .navbar-brand {
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
 	color: #E0E0E0;
-}*/
-
-.navbar-default .navbar-brand {
-    color: white;
 }
 
-/*.about {
+
+div#about {
 	text-align: left;
 	display: block;
     padding-top: 15em;
@@ -194,63 +125,25 @@ header .navbar-default .navbar-nav .active a:hover {
     background-image: linear-gradient(to bottom, #93C3D8, #3C5059);
     border-top: 20px solid rgba(95, 126, 140, 1);
     
-}*/
-
-.statment{
-	background-color: rgba(95, 126, 140, 1);
-    background-image: linear-gradient(to bottom, rgba(147, 195, 216, 0.5), rgba(60, 80, 89, 0.5);
-    border-top: 20px solid rgba(95, 126, 140, 1);
-    
-
 }
-/*.about {
-	text-align: left;
-	display: block;
-    padding-top: 15em;
-    padding-bottom: 15em;
-    padding-left:0;
-    background-color: rgba(95, 126, 140, 1);
-    background-image: linear-gradient(to bottom, rgba(147, 195, 216, 0.5), rgba(60, 80, 89, 0.5);
-    border-top: 20px solid rgba(95, 126, 140, 1);
-    
-}*/
-.statment h2 {
+div#about h2 {
     color: white;
 }
-/*.about p {
+div#about p {
 	text-align: left;
     color: white;
-    font-size: 1.4em;
-    font-family: "Roboto Slab", sans-serif;
-    font-weight: 300;
-}*/
-.about {
-    text-align: left;
-    display: block;
-    padding-top: 15em;
-    padding-bottom: 15em;
-    padding-left: 0;
-    background-color: rgba(95, 126, 140, 1);
-    background-image: linear-gradient(to bottom, rgba(147, 195, 216, 0.5), rgba(60, 80, 89, 0.5));
-    border-top: 20px solid rgba(95, 126, 140, 1);
-}
-.about p {
-	text-align: left;
-    color: white;
-    font-size: 1.6em;
+    font-size: 2em;
     font-family: "Roboto Slab", sans-serif;
     font-weight: 300;
 }
-/*div#work {
-    padding-top: 3em;
-    padding-left: 0;
-    padding-right: 0;
-    padding-bottom: 8em;
+div#work {
+	padding: 3em;
+	padding-bottom: 6em;
 }
 div#contact {
 	padding: 3em;
 	padding-bottom: 6em;
-}*/
+}
 
 .row{
 	margin: 2em 0 0 0;
@@ -262,15 +155,22 @@ div#contact {
 .col-lg-12.col-md-12 .top{
 padding-top: 1em;
 }
-
 p.indented{
-
 	padding-left: 1em;
+}
+span.glyphicon.glyphicon-unchecked{
+	font-size: 0.5em;
+	padding-left: 1em;
+	color: #A0A0A0;
+/*	vertical-align: middle;*/
 }
 .col-lg-9, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9{	    
 	padding-left: 0;
 	padding-right: 0;
 }
+
+	/*about page*/
+
 .about {
 	text-align: left;
 	display: block;
@@ -291,9 +191,12 @@ p.indented{
     font-size: 2em;
     font-family: "Roboto Slab", sans-serif;
     font-weight: 300;
-    }
+
 
      /*contact page*/
+
+
+
 .min-label{
 	font-family: "Open Sans", sans-serif;
 	font-weight: 700;
@@ -314,6 +217,23 @@ p.indented{
 	outline: none;
 }
 
+/*.contact {
+	font-family: "Open Sans", sans-serif;
+	font-size: 1.2em;
+	float: right;
+	vertical-align: top;
+	color: #808080;
+	padding-top: 0em;
+	text-align: right;
+}*/
+
+/*.form-control {
+	border-radius: 0;
+	border:none;
+	box-shadow: none;
+	outline: none;
+}*/
+
 .btn.btn-large{
 	outline: none;
 	margin-left: none;
@@ -333,7 +253,46 @@ p.indented{
 	outline: none;
 	border:none;
 }
-
+.btn.btn-primary{
+	outline: none;
+	margin-left: none;
+    margin-right: none;
+    margin-top: 2em;
+    margin-bottom: 3em;
+	float: center;
+	width: 100%;
+    background: white;
+    color: black;
+    font-size: 16px;
+    border: 1px solid black;
+    border-radius: 0;
+    outline:none;
+    padding: none;
+}
+.btn.btn-primary:hover{
+	outline: none;
+	margin-left: none;
+    margin-right: none;
+    margin-top: 2em;
+    margin-bottom: 3em;
+	background: #ccc;
+    color: black;
+    font-size: 16px;
+    border: 1px solid black;
+    border-radius: 0;
+}
+.btn.btn-primary:focus{
+	outline: none;
+	margin-left: none;
+    margin-right: none;
+    margin-top: 2em;
+    margin-bottom: 3em;
+	background: black;
+    color: white;
+    font-size: 16px;
+    border: 1px solid black;
+    border-radius: 0;
+}
 input:hover {
 	background-color: #E0E0E0;
 	color: black;
@@ -359,8 +318,44 @@ td {
 	display: inline;
 }
 
+/**  Footer **/
 
+footer {
+  background: #202020;
+  color: white;
+  font-size: .8em;
+  padding: 20px 0 40px 0;
+}
 
+footer a {
+  color: #E0E6AE;
+}
+
+footer a:hover {
+  color: #EEC856 !important;
+}
+
+footer a {
+  color: #EEC856 !important;
+}
+
+/*footer .navbar {
+  margin-bottom: 0;
+  min-height: 0;
+}
+
+footer .navbar-default {
+  background-color: transparent;
+  border: none;
+  margin-right: 40px;
+}*/
+
+/*footer .navbar-nav>li a {
+  padding-top: 0;
+  padding-bottom: 0;
+  text-decoration: underline;
+  color: #FFFFFF !important;*/
+}
 
   /*   media Queries*/
 @media (min-width: 1200px){
@@ -375,16 +370,15 @@ td {
 
 }
 
-@media (min-width: 769px){
-	.contact-info {
-		text-align: right;
-	}
+@media (min-width: 768px){
+	span.glyphicon.glyphicon-unchecked {
+    padding-left: 0;
+}
 }
 @media (max-width: 768px){
 	
 	h1{
 		font-size: 2.5em;
-
 	}
 	h2{
 		font-size: 1.8em;
@@ -398,12 +392,6 @@ td {
 	p{
 	/*	font-size: 0.9em;*/
 	}
-	.contact-info{
-		float: left;
-		text-align: left;
-	}
-}
-
 @media only screen and (max-width: 959px) and (min-width: 768px){
 .alignright {
     width: 100%;
@@ -415,4 +403,6 @@ td {
     float: right;
 }
 }
+
+	
 

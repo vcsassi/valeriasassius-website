@@ -1,0 +1,469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"display"
+			],
+			[
+				"ri",
+				"margin-right"
+			],
+			[
+				"r",
+				"rows	Attr"
+			],
+			[
+				"eye",
+				"eye_color"
+			],
+			[
+				"Cir",
+				"Circus_Clowns"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"hex",
+				"hex2rgb"
+			],
+			[
+				"se",
+				"setPosition"
+			],
+			[
+				"rec",
+				"rectMode"
+			],
+			[
+				"new",
+				"newSpot"
+			],
+			[
+				"stroke",
+				"strokeColor"
+			],
+			[
+				"num",
+				"numSpotsToDie"
+			],
+			[
+				"re",
+				"reproduce"
+			],
+			[
+				"spo",
+				"spots"
+			],
+			[
+				"siz",
+				"sizeFactor"
+			],
+			[
+				"orga",
+				"Organism"
+			],
+			[
+				"Or",
+				"organisms"
+			],
+			[
+				"max",
+				"maxsize"
+			],
+			[
+				"strok",
+				"strokeColor"
+			],
+			[
+				"display",
+				"displayOutline"
+			],
+			[
+				"d",
+				"dat"
+			],
+			[
+				"min",
+				"minsize"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"set",
+				"SetValues"
+			],
+			[
+				"in",
+				"initialSpots"
+			],
+			[
+				"mouse",
+				"mouseY"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"n",
+				"numSpots"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/WebsiteV2/css/style-resume.css",
+		"/Users/valeriasassi/Documents/Quarter6/IAMInspired_6_current/public_html/css/style.css",
+		"/Users/valeriasassi/Documents/exercises/BOTTSTRAP!/Ex_Files_btslyt_resp/Exercise Files/03_07/development/index.html",
+		"/Users/valeriasassi/Documents/Quarter6/IAMInspired_6_current/public_html/index.html",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/0a424c88-ac1e-4f29-a9d6-a6c2ae3d27f4/public_html/veehicle-tables/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/184de50c-c1e8-4a77-a4d3-9df789c9d894/public_html/index.html",
+		"/Applications/MAMP/htdocs/mid-term review/index.html",
+		"/Applications/MAMP/htdocs/example_club application/cardwishlist.php",
+		"/Applications/MAMP/htdocs/example_club application/submitting to yourself.html",
+		"/Applications/MAMP/htdocs/example_club application/mtgwishlist.csv",
+		"/Applications/MAMP/htdocs/club_application_form/clubList.csv",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/b98f9cf7-6f7d-4d4e-b02c-d6017d250e0e/public_html/index.html",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/example_club application/mtgwishlist.csv",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/example_club application/submitting to yourself.html",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/example_club application/cardwishlist.php",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/example_club application/associativeArrays.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/8a55190d-2f07-48fd-bf28-c37eac14a0a5/public_html/IAMInspired/js/myscript.js",
+		"/Users/valeriasassi/Desktop/Ex_Files_btslyt_resp/Exercise Files/03_07/development/index.html",
+		"/Users/valeriasassi/Downloads/Ex_Files_Bootstrap_Interactivity_FREE/form bootstrap/Chapter 3/03_05/3-form-collapse.html",
+		"/Users/valeriasassi/Documents/Quarter6/IAMInspired_2/jquery.flexslider.js",
+		"/Users/valeriasassi/Documents/Quarter6/IAMInspired_2/style.css",
+		"/Users/valeriasassi/Desktop/joomba and bootsrap/final version of website/final/administrator/components/com_akeeba/akeeba/engines/scan/smart.php",
+		"/Users/valeriasassi/Documents/bootstrap/js/jquery-2.1.4.min.js",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/85176d0c-07a3-4f9f-af0f-88a2e970f987/public_html/IAMInspired/index.html",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/85176d0c-07a3-4f9f-af0f-88a2e970f987/public_html/IAMInspired/css/style.css",
+		"/Users/valeriasassi/Documents/bootstrap/js/myscript.js",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/95dec888-ef5d-433f-a8e3-ba547e9e7e31/public_html/IAMInspired/index.html",
+		"/Users/valeriasassi/Documents/bootstrap/css/style.css",
+		"/Users/valeriasassi/Documents/bootstrap/index.html",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/form/index.php",
+		"/Users/valeriasassi/Documents/Quarter6/IAMInspired_5/index.html",
+		"/Users/valeriasassi/Documents/Quarter5/IntroToAuthoring-2460/poll_version2/update_poll.php",
+		"/Users/valeriasassi/Documents/Quarter5/IntroToAuthoring-2460/poll_version2/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/8d949cf2-8373-4323-a9a9-e7b91713ff12/public_html/IAMInspired/index.html",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/22a179fa-a17e-49d2-9ac2-cf927d9c9f54/public_html/IAMInspired/style.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/22a179fa-a17e-49d2-9ac2-cf927d9c9f54/public_html/IAMInspired/index.html",
+		"/Applications/MAMP/htdocs/php-flat-files/black_night.txt",
+		"/Users/valeriasassi/Desktop/Ex_Files_CSS_Page_Layout/Exercise Files/Chapter_07/07_06/finished_files/_css/main.css",
+		"/Users/valeriasassi/Desktop/Ex_Files_CSS_Page_Layout/Exercise Files/Chapter_07/07_06/finished_files/index.htm",
+		"/Users/valeriasassi/Desktop/Ex_Files_CSS_Page_Layout/Exercise Files/Chapter_08/08_08/index.htm",
+		"/Users/valeriasassi/Documents/Quarter6/IAMInspired/index.html",
+		"/Users/valeriasassi/Documents/Quarter6/IAMInspired/style.css",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/tabs/form.css",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/tabs/index.html",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/cssTransitions/transitions.css",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/cssTransitions/index.html",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/form/form.css",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/form/index.html",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/fabric/index.html",
+		"/Users/valeriasassi/Documents/Quarter6/advanceScriptingLanguages/fabric/form.css",
+		"/Users/valeriasassi/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/form/recaptchalib.php",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/form/send.php",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/form/normalize.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/c3d4e8b5-d433-421e-b7ce-f9aec0de7616/IM2420/form/normalize.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/c3d4e8b5-d433-421e-b7ce-f9aec0de7616/IM2420/form/recaptchalib.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/c3d4e8b5-d433-421e-b7ce-f9aec0de7616/IM2420/form/send.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/aeedd396-1e8f-4057-b115-135694cf1bca/IM2420/form_Style/form.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/2655b351-e1a7-4c08-891a-2470d6a3987f/IM2420/form_Style/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/2655b351-e1a7-4c08-891a-2470d6a3987f/IM2420/form_Style/send.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/2655b351-e1a7-4c08-891a-2470d6a3987f/IM2420/form_Style/form.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/2655b351-e1a7-4c08-891a-2470d6a3987f/IM2420/form/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/2655b351-e1a7-4c08-891a-2470d6a3987f/IM2420/form/send.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/91cb9f5a-95d3-4141-a0d3-036d6c6c99aa/IM2420/form/send.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/91cb9f5a-95d3-4141-a0d3-036d6c6c99aa/IM2420/form/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/8594b9a9-f49e-44ed-8bdb-5dacd4745a98/IM2420/form/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/8594b9a9-f49e-44ed-8bdb-5dacd4745a98/IM2420/form/index_1.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/8594b9a9-f49e-44ed-8bdb-5dacd4745a98/IM2420/form/send.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/425e3c69-c0ab-43aa-941b-3ac45db787dd/IM2420/form/index.html",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/form/index.html",
+		"/Users/valeriasassi/Downloads/unearthe_icmlm.sql",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/22d88965-c368-4909-adce-8e3d550c29cf/IM2420/JQueryUI/jqueryui.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/22d88965-c368-4909-adce-8e3d550c29cf/IM2420/JQueryUI/index.html",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/JQueryUI/jquery-ui.min.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/95dd3233-ae94-4343-851f-aa2bf2d6d493/IM2460/poll/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/95dd3233-ae94-4343-851f-aa2bf2d6d493/IM2460/poll/index.php",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/JQueryUI/index.html",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/JQueryUI/jqueryui.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/95dd3233-ae94-4343-851f-aa2bf2d6d493/IM2420/fancybox/index.html",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/95dd3233-ae94-4343-851f-aa2bf2d6d493/IM2420/fancybox/images/cutOut.jpg",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/95dd3233-ae94-4343-851f-aa2bf2d6d493/IM2460/bookClubPoll/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/09fd5b8b-dfb3-4ddc-9850-04f41ade4423/IM2460/poll2/poll.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/09fd5b8b-dfb3-4ddc-9850-04f41ade4423/IM2460/poll2/index.php",
+		"/Users/valeriasassi/Documents/Quarter5/Fundamentals of Scripting Languages/fancybox/index.html",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/0035900f-9cc7-43b8-a20c-42084c0486a3/IM2460/poll/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/0035900f-9cc7-43b8-a20c-42084c0486a3/IM2460/poll/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/0035900f-9cc7-43b8-a20c-42084c0486a3/IM2460/bookClubPoll/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/0035900f-9cc7-43b8-a20c-42084c0486a3/IM2460/bookClubPoll/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/1a93b5d2-3f71-496f-8c02-fd066c07819c/IM2460/bookClubPoll/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/1a93b5d2-3f71-496f-8c02-fd066c07819c/IM2460/poll2/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/1a93b5d2-3f71-496f-8c02-fd066c07819c/IM2460/poll/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/12d79d20-7ad9-442c-8846-2f4da8e67811/IM2460/bookClubPoll/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/12d79d20-7ad9-442c-8846-2f4da8e67811/IM2460/poll2/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/12d79d20-7ad9-442c-8846-2f4da8e67811/IM2460/poll2/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/387fa76e-83fc-419e-8a8b-9fdc1adb5c32/IM2460/bookClubPoll/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/387fa76e-83fc-419e-8a8b-9fdc1adb5c32/IM2460/poll2/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/955a16a7-32df-470b-8c3c-5bbea177eac7/IM2460/bookClubPoll/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/955a16a7-32df-470b-8c3c-5bbea177eac7/IM2460/poll2/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/955a16a7-32df-470b-8c3c-5bbea177eac7/IM2460/poll2/update_poll_general.php",
+		"/Users/valeriasassi/Downloads/Chart.js-master/samples/doughnut.html",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/58a53b35-a0ea-441e-a584-de136a0aa84d/IM2460/poll2/update_poll.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/58a53b35-a0ea-441e-a584-de136a0aa84d/IM2460/poll/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/58a53b35-a0ea-441e-a584-de136a0aa84d/IM2460/poll/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/26da8e3d-42f5-4cb4-97d7-24369ee4fe75/IM2460/poll/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/26da8e3d-42f5-4cb4-97d7-24369ee4fe75/IM2460/poll/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/df83e604-777c-4653-9153-fcf922cc12df/IM2460/poll/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/df83e604-777c-4653-9153-fcf922cc12df/IM2460/poll/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/df83e604-777c-4653-9153-fcf922cc12df/IM2460/poll/update_poll_general.php",
+		"/Users/valeriasassi/Downloads/Chart.js-master/samples/polar-area.html",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/0c459b25-23b5-45a9-9baf-c1017f318b69/IM2460/poll/update_poll_general.php",
+		"/Users/valeriasassi/Documents/Quarter5/IntroToAuthoring-2460/poll/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/0c459b25-23b5-45a9-9baf-c1017f318b69/IM2460/poll/poll_data.txt",
+		"/Users/valeriasassi/Documents/Quarter5/IntroToAuthoring-2460/poll/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/0c459b25-23b5-45a9-9baf-c1017f318b69/IM2460/poll/index.php",
+		"/Users/valeriasassi/Documents/Quarter5/IntroToAuthoring-2460/poll/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/0c459b25-23b5-45a9-9baf-c1017f318b69/IM2460/poll2/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/6d7f2c12-c6ce-41d5-a3be-1693dfce0379/IM2460/Poll2/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/6d7f2c12-c6ce-41d5-a3be-1693dfce0379/IM2460/Poll2/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/6d7f2c12-c6ce-41d5-a3be-1693dfce0379/IM2460/Poll2/poll_data.txt",
+		"/Users/valeriasassi/Documents/Quarter5/IntroToAuthoring-2460/poll_version2/superheroes.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/427065df-4b6a-4561-b3d2-8ee88f1c25dc/IM2460/poll/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/d4dcdc63-b9e2-4d31-ad30-7b2af8268c96/IM2460/poll/idle-timer.js",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/d4dcdc63-b9e2-4d31-ad30-7b2af8268c96/IM2460/poll/jquery-1.11.2.min.js",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/d4dcdc63-b9e2-4d31-ad30-7b2af8268c96/IM2460/poll/index.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/d4dcdc63-b9e2-4d31-ad30-7b2af8268c96/IM2460/poll/poll_data.txt",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/d4dcdc63-b9e2-4d31-ad30-7b2af8268c96/IM2460/poll/update_poll_general.php",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/d4dcdc63-b9e2-4d31-ad30-7b2af8268c96/IM2460/poll/poll.css",
+		"/private/var/folders/wl/9bx4q7v51y9__4j40p1x5n440000gn/T/7823ede0-97b8-4b2a-be74-f6ae7afcd0cb/IM2460/poll/poll_data.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getting-started",
+			"span",
+			"getting-started",
+			"getting",
+			"countdown",
+			"       <span id=\"getting-started\"></span>\ngetting",
+			"009688",
+			"accept",
+			"contact",
+			"email",
+			"valid =",
+			"valid ",
+			"message += ",
+			".value",
+			"document.contact.",
+			"valid = ",
+			"message +=",
+			".value",
+			"document.contact.",
+			"atepicker",
+			";\n",
+			":\n",
+			"2em",
+			"	\n",
+			"wra",
+			"hmod",
+			"rspeed",
+			"gravity",
+			"strokeColor",
+			"hex2rgb",
+			" >",
+			" ="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style-resume.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"stye",
+				"css/style.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"",
+				"~/Documents/Quarter5/Fundamentals of Scripting Languages/calculator/calculator.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
