@@ -1,1 +1,4 @@
 *.DS_Store
+/php-functionality
+/error_log
+*.csv
