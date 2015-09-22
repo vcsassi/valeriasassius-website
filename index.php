@@ -83,7 +83,7 @@ $label_rows = str_getcsv($file, "\n");
 			           <!--  <p class="proj-descr">iuhdrfi reshiuyh iu</p> -->
 	        		</div>
 	        		<div class="col-lg-4 col-sm-12 box box-small">
-						<a href="/mysql_mini_assignment/index2.php" target="_blank">
+						<a href="/library.php" target="_blank">
 	            			<img  src="images/library.jpg" class="img-responsive">
 	          			</a>
 			            <h3 class="intro">Library</h3>
@@ -93,10 +93,9 @@ $label_rows = str_getcsv($file, "\n");
 	        		
 	        		<div class="col-lg-4 col-sm-12 box box-big">
 	        			<div class="bottom-align-text">
-		        			<h3 class="intro">Library</h3>
-				            <p class="mrgn-lft">This is a database to store, retrieve, edit, and delete items from a collection.<br>It works as a library that allows book club members to check out books from a private collection. The book club members will be able to add books to lend, perform a filtered search and read about the books.<br>The collection items can be easily updated and deleted.</p>
-				         </div>
-				         <div>
+		        			<h3 class="intro">Life Beyond our Planet</h3>
+				            <p class="mrgn-lft"This is an online poll that displays instant results in a graphic chart.<br>Opinion Pools have many applications. They give a chance to educate and/or collect data. It gives people an opportunity to be heard.</p>
+			  
 				           <!--  <p class="proj-descr">iuhdrfi reshiuyh iu</p> -->
 							<a href="/mysql_mini_assignment/index2.php" target="_blank">
 		            			<img  src="images/library.jpg" class="img-responsive">
@@ -137,7 +136,7 @@ $label_rows = str_getcsv($file, "\n");
 		<div class="page" id="contact">
 			<div class="container">
 				<h2>Contact</h2>
-				<p>All required</p>
+				<p>All fields required</p>
 				<?php 
 		              if (!$valid){
 		                echo "<h3>Please check the information below</h3>";
@@ -211,7 +210,7 @@ $label_rows = str_getcsv($file, "\n");
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="js/jquery-2.1.4.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-<script type="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <script src="js/myscript.js"></script>
 </body>
 </html>
