@@ -22,7 +22,7 @@ body{
   margin-right: 0;
 }
 .container {
-	max-width: 1244px;
+	
 }
 
 h1, h2, h3, h4, h5, h6 ,p {
@@ -53,9 +53,6 @@ h1 {
 	font-size: 1em;
 	
 }
-/*.col-lg-12 h1 {
-	vertical-align: middle;
-}*/
 .col-md-6 {
     padding-left: 0;
     padding-right: 0;
@@ -85,11 +82,6 @@ p {
 p strong {
 	color: black;
 }
-/*p.mrgn-lft {
-	min-height:20em ;
-	margin: 1.5em 2em 1.5em 0;
-}*/
-
 img {
 	max-width:200px;
 }
@@ -179,6 +171,50 @@ span.glyphicon.glyphicon-unchecked{
 .box {
 	background: #404040;
 }
+
+.thumbnail_bg01 {
+    background: no-repeat url(../images/i-am-inspired-website.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.thumbnail_bg02 {
+    background: no-repeat url(../images/library.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.thumbnail_bg03 {
+    background: no-repeat url(../images/planet.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.thumbnail {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    font-size: 1.2em;
+    /*line-height: 18px;*/
+    color: #404040;
+    -moz-transition: 0.2s;
+    -webkit-transition: 0.2s;
+    -o-transition: 0.2s;
+    transition: 0.2s;
+}
+.thumbnail h3 {
+    text-align: left;
+    font-weight: 700;
+    line-height: 36px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+.thumbnail h3 {
+    color: #ffffff;
+    -moz-transition: 0.2s;
+    -webkit-transition: 0.2s;
+    -o-transition: 0.2s;
+    transition: 0.2s;
+}
+
 .col-lg-9, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9{	    
 	padding-left: 0;
 	padding-right: 0;
@@ -312,8 +348,7 @@ input:focus, .form-inline .form-control:focus{
     border-radius: 0;
 }
 .mrgn-lft{
-	min-height: 15em;
-    max-height: 15em;
+	height: 22em;
     overflow: scroll;
 }
 #contact h2 {
@@ -382,9 +417,10 @@ footer .container-fluid {
 	margin-top: -3em;
 
 }
-
-
-
+.box {
+		margin-top: 2em;
+		max-width: 95%;
+	}
   /*   media Queries*/
 @media (min-width: 1200px){
 
@@ -399,19 +435,19 @@ footer .container-fluid {
 }
 
 @media (min-width: 769px){
-/*	span.glyphicon.glyphicon-unchecked {
-    padding-left: 0;
-}*/
-	.box-small {
+	/*.box-small {
 		display: none;
-	}
+	}*/
 }
+@media (max-width: 1079px){
+	
+}
+
 @media (max-width: 768px){
-
-	.col-lg-4.col-sm-12.box.box-big {
+	/*.box-big {
     display: none;
-	}
-
+	}*/
+	
 	h2{
 
 		font-size: 1.8em;
@@ -439,9 +475,7 @@ footer .container-fluid {
 	.btn.btn-social-icon, .btn.btn-file-pdf-o , .btn.file-word-o{
 	margin-top: -4em;
 	}
-	.autorretrato {
-	padding-top: 4em;
-	}
+
 }
 
 @media only screen and (max-width: 959px) and (min-width: 768px){
