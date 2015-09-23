@@ -152,7 +152,7 @@ header .navbar-default .navbar-nav .active a:hover {
 }
 
 .row h3{
-	padding-top: 1em;
+	padding-top: 0;
 }
 .col-lg-12.col-md-12 .top{
 padding-top: 1em;
@@ -378,40 +378,50 @@ footer .container-fluid {
 	font-family: "Roboto Slab", sans-serif;
     font-weight: 300;
 }
-.btn.btn-social-icon, .btn.btn-file-pdf-o , .btn.file-word-o{
+.btn.btn-social-icon, .btn.btn-file-pdf-o , .btn.file-word-o {
 	margin-top: -3em;
 
 }
 
+.image1 {
+	background-image: no-repeat url(../images/i-am-inspired-website.jpg);
+	height: 100%;
+}
+.fa-arrow-circle-o-right:before {
+    content: "\f18e";
+    color: #EEC856;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
 
 
   /*   media Queries*/
-@media (min-width: 1200px){
 
-}
 @media (max-width: 1200px) {
 	.alignright {
 		width: 100%;
 		text-align: left;
 		float: left;
 	}
-
-}
-
-@media (min-width: 769px){
-/*	span.glyphicon.glyphicon-unchecked {
-    padding-left: 0;
-}*/
-	.box-small {
-		display: none;
-	}
 }
 @media (max-width: 768px){
-
-	.col-lg-4.col-sm-12.box.box-big {
-    display: none;
-	}
-
 	h2{
 
 		font-size: 1.8em;
@@ -443,7 +453,16 @@ footer .container-fluid {
 	padding-top: 4em;
 	}
 }
-
+@media (max-width: 1199px){
+	.box-big {
+    display: none;
+	}
+}
+@media (min-width: 1200px){
+	.box-small {
+		display: none;
+	}
+}
 @media only screen and (max-width: 959px) and (min-width: 768px){
 
 }
