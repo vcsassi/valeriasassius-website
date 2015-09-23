@@ -78,7 +78,7 @@ $label_rows = str_getcsv($file, "\n");
 						<img  src="images/i-am-inspired-website.jpg" class="img-responsive">
 			            <h3 class="intro"># I Am Inspired</h3>
 			            <p class="mrgn-lft">This single page website was created for the “I Am Inspired” event as part of Fashion Week Minnesota.<br>The website showcases the art and photography work of young artists.<br>The artwork chosen for the carrousel creates a colorful atmosphere.<br>A countdown watch for the event and geo location was included.</p>
-			            <a target="_blank" class="" href="http://iaminspiredmsp.com/"><p>Go to site</p></a>
+			            <a target="_blank" href="http://iaminspiredmsp.com/"><p class="link">Go to site</p></a>
 	        		</div>
 	        		<div class="col-lg-4 col-sm-12 box box-small">
 	            		<a href="../library/index.php" target="_blank">
@@ -86,7 +86,7 @@ $label_rows = str_getcsv($file, "\n");
 		          		</a>
 			            <h3 class="intro">Library</h3>
 			            <p class="mrgn-lft">This is a database to store, retrieve, edit, and delete items from a collection.<br>It works as a library that allows book club members to check out books from a private collection. The book club members will be able to add books to lend, perform a filtered search and read about the books.<br>The collection items can be easily updated and deleted.</p>
-			            <a target="_blank" class="" href="../library/index.php"><p>Go to site</p></a>
+			            <a target="_blank" href="../library/index.php"><p class="link">Go to site</p></a>
 			           <!--  <p class="proj-descr">iuhdrfi reshiuyh iu</p> -->
 	        		</div>
 	        		
@@ -94,7 +94,7 @@ $label_rows = str_getcsv($file, "\n");
 	        			<div class="bottom-align-text">
 		        			<h3 class="intro">Library</h3>
 				            <p class="mrgn-lft">This is a database to store, retrieve, edit, and delete items from a collection.<br>It works as a library that allows book club members to check out books from a private collection. The book club members will be able to add books to lend, perform a filtered search and read about the books.<br>The collection items can be easily updated and deleted.</p>
-				            <a target="_blank" class="" href="../library/index.php"><p>Go to site</p></a>
+				            <a target="_blank" href="../library/index.php"><p class="link">Go to site</p></a>
 							<a href="../library/index.php" target="_blank">
 		            			<img  src="images/library.jpg" class="img-responsive">
 		          			</a>
@@ -106,7 +106,7 @@ $label_rows = str_getcsv($file, "\n");
 	          			</a>
 			            <h3 class="intro">Life Beyond our Planet</h3>
 			            <p class="mrgn-lft">This is an online poll that displays instant results in a graphic chart.<br>Opinion Pools have many applications. They give a chance to educate and/or collect data. It gives people an opportunity to be heard.</p>
-			            <a target="_blank" class="" href="../life-beyound-our-planet/index.php"><p>Go to site</p></a>
+			            <a target="_blank" href="../life-beyound-our-planet/index.php"><p class="link">Go to site</p></a>
 	        		</div>
 	        		
 				</div><!-- row 2 -->

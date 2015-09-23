@@ -112,6 +112,15 @@ header .navbar-default .navbar-nav a {
 	color: #E0E0E0;
 	padding: 5px 8px
 }
+.navbar-default .navbar-nav li a:focus{
+	color: #E0E0E0;
+    background-color: transparent;
+}
+header .navbar-default .navbar-nav a:visited {
+	background-color: transparent;
+	color: #E0E0E0;
+	padding: 5px 8px
+}
 header .navbar-default .navbar-nav a:hover{
 	color: #F45353;;
 	background-color: transparent;
@@ -151,8 +160,13 @@ header .navbar-default .navbar-nav .active a:hover {
 	margin: 2em 0 0 0;
 }
 
-.row h3{
-	padding-top: 0;
+.row h3 {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.link{
+	color: #EEC856 !important;
+	padding-bottom: 1em;
 }
 .col-lg-12.col-md-12 .top{
 padding-top: 1em;
