@@ -329,7 +329,7 @@ input:focus, .form-inline .form-control:focus{
 .mrgn-lft{
 	min-height: 15em;
     max-height: 15em;
-    overflow: scroll;
+    overflow: hidden;
 }
 #contact h2 {
 	margin-bottom: 0.15em;
@@ -471,6 +471,9 @@ footer .container-fluid {
 @media (max-width: 1199px){
 	.box-big {
     display: none;
+	}
+	.mrgn-lft{
+    overflow: scroll;
 	}
 }
 @media (min-width: 1200px){
