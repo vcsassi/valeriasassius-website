@@ -75,7 +75,9 @@ $label_rows = str_getcsv($file, "\n");
 				<h2>Work</h2>
 				<div class="row">
 					<div class="col-lg-4 col-sm-12 box">
-						<img  src="images/i-am-inspired-website.jpg" class="img-responsive">
+						<a href="http://iaminspiredmsp.com/" target="_blank">
+							<img  src="images/i-am-inspired-website.jpg" class="img-responsive">
+						</a>
 			            <h3 class="intro"># I Am Inspired</h3>
 			            <p class="mrgn-lft">This single page website was created for the “I Am Inspired” event as part of Fashion Week Minnesota.<br>The website showcases the art and photography work of young artists.<br>The artwork chosen for the carrousel creates a colorful atmosphere.<br>A countdown watch for the event and geo location was included.</p>
 			            <a target="_blank" href="http://iaminspiredmsp.com/"><p class="link">Go to site</p></a>
