@@ -108,7 +108,7 @@ $label_rows = str_getcsv($file, "\n");
 	          			</a>
 			            <h3 class="intro">Life Beyond our Planet</h3>
 			            <p class="mrgn-lft">This is an online poll that displays instant results in a graphic chart.<br>Opinion Pools have many applications. They give a chance to educate and/or collect data. It gives people an opportunity to be heard.</p>
-			            <a target="_blank" href="life-beyound-our-planet/index.php"><p class="link">Go to site</p></a>
+			            <a target="_blank" href="life-beyond-our-planet/index.php"><p class="link">Go to site</p></a>
 	        		</div>
 	        		
 				</div><!-- row 2 -->
